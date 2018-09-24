@@ -1,0 +1,8 @@
+Eater
+hop
+left
+ifrandom 6
+left
+right
+
+This creature simply eats.
